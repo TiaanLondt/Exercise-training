@@ -1,0 +1,2 @@
+# Exercise-training
+CAD drawing 
